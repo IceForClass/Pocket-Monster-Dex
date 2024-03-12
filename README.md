@@ -1,6 +1,6 @@
 # Pocket Monster Dex
 
-<img align="right" src="Imagenes/LOgo.jpeg" width="350" alt="PocketBall">
+<img align="right" src="Imagenes/Logo.png" width="350" alt="PocketBall">
 
 ## Tema:
 - En cuanto a la tematica de este repositorio local, sería la de documentar todas las estrategias del combate Pokemon en una página sencilla e intuitiva para que cualquier aficionado sea capaz dedeserronllarse en su carrera como entrenador Pokemon.
