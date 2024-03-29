@@ -1,3 +1,5 @@
+window.onload = modo;
+
 // Variables disponibles
 let a,b,c;
 
