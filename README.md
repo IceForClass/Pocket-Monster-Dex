@@ -3,8 +3,10 @@
 <img align="right" src="Imagenes/Logo.png" width="350" alt="PocketBall">
 
 ## Tema:
-- En cuanto a la tematica de este repositorio, sería la de documentar todas las estrategias del combate Pocket Monster en una página sencilla e intuitiva para que cualquier aficionado sea capaz de deserronllarse en su carrera como entrenador Pocket Monster.
+- En cuanto a la tematica de este repositorio, sería la de documentar todas las estrategias del combate Pocket Monster en una página sencilla e intuitiva para que cualquier aficionado sea capaz de desenvolverse en su carrera como entrenador Pocket Monster.
+
 - Sumergase en está aventura e inicie su carrera como el mejor que habra jamas. 
+
 
 ## Presentación
 - [Comencemos](/Presentacion/Presentacion.md)
