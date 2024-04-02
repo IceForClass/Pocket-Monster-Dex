@@ -2,6 +2,8 @@
 
 <img align="right" src="/Imagenes/Logo.png" width="350" alt="PocketBall">
 
-# Segunda Parte
+# Memoria
 
-## Trabajamos En Branchs
+## Segunda Parte
+
+### Trabajamos En Branchs

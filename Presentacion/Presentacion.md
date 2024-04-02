@@ -2,8 +2,10 @@
 
 <img align="right" src="/Imagenes/Logo.png" width="350" alt="PocketBall">
 
-# Primera Parte
+# Memoria
 
-## Trabajamos En El Main
+## Primera Parte
+
+### Trabajamos En El Main
 
 - [Siguiente](Presentacion2.md)
