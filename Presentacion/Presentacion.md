@@ -1,6 +1,6 @@
 # Pocket Monster Dex
 
-<img align="right" src="Imagenes/Logo.png" width="350" alt="PocketBall">
+<img align="right" src="/Imagenes/Logo.png" width="350" alt="PocketBall">
 
 # Primera Parte
 
