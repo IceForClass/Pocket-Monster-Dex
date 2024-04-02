@@ -12,3 +12,7 @@ function modo(){
     a.classList.toggle("text-light")
 }
 document.getElementById("boton_modo").addEventListener("click", modo)
+
+
+
+
