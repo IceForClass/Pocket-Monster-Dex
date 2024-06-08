@@ -1,3 +1,4 @@
+drop database if exists pocket_monster;
 create database pocket_monster;
 
 use pocket_monster;
