@@ -11,8 +11,8 @@
     <script src="https://kit.fontawesome.com/6b33bf05cd.js" crossorigin="anonymous"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="/archivo.js">
-    <link rel="stylesheet" href="/estilo.css">
+    <link rel="stylesheet" href="../js/archivo.js">
+    <link rel="stylesheet" href="../style/estilo.css">
 </head>
 
 
@@ -21,13 +21,13 @@
     <header class="p-3 bg-dark text-white">
         <div class="container">
           <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-            <img src="/Imagenes/Logo.png" width="100" height="100" role="img">
+            <img src="../Imagenes/Logo.png" width="100" height="100" role="img">
     
             <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-              <li><a href="/index.html" class="nav-link px-2 text-white">Home</a></li>
+              <li><a href="../index.php" class="nav-link px-2 text-white">Home</a></li>
               <li><a href="#" class="nav-link px-2 text-secondary">Estrategias</a></li>
-              <li><a href="mapa.html" class="nav-link px-2 text-white">Mapa</a></li>
-              <li><a href="about.html" class="nav-link px-2 text-white">Sobre Nosotros</a></li>
+              <li><a href="mapa.php" class="nav-link px-2 text-white">Mapa</a></li>
+              <li><a href="about.php" class="nav-link px-2 text-white">Sobre Nosotros</a></li>
             </ul>
     
             <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3">
@@ -35,7 +35,7 @@
             </form>
     
             <div class="text-end">
-              <a href="login.html" class="btn btn-outline-light me-2">Login</a>
+              <a href="login.php" class="btn btn-outline-light me-2">Login</a>
               <button id = "boton_modo" type="button" class="btn btn-warning" title="Pulsame"><i class="fa-solid fa-circle-half-stroke"></i></button>
             </div>
           </div>
@@ -50,17 +50,17 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="text-center">
-                    <img src="/Imagenes/fueguin.jpeg" alt="Fuego" class="img-fluid mb-2">
+                    <img src="../Imagenes/fueguin.jpeg" alt="Fuego" class="img-fluid mb-2">
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="text-center">
-                    <img src="/Imagenes/laplanta.jpeg" alt="Planta" class="img-fluid mb-2">
+                    <img src="../Imagenes/laplanta.jpeg" alt="Planta" class="img-fluid mb-2">
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="text-center">
-                    <img src="/Imagenes/renacuajo.jpeg" alt="Agua" class="img-fluid mb-2">
+                    <img src="../Imagenes/renacuajo.jpeg" alt="Agua" class="img-fluid mb-2">
                 </div>
             </div>
         </div>
@@ -71,7 +71,7 @@
   <section class="text-center mb-3">
     <h3 class="text-warning">¡Recuerda!</h3>
     <h4>Este es el triángulo de debilidades y resistencias básico, tengo en cuenta a la hora de elegir</h4>
-    <img src="/Imagenes/debilidades.png" alt="Debilidades" width="300" height="300">
+    <img src="../Imagenes/debilidades.png" alt="Debilidades" width="300" height="300">
   </section>
     </main>
 
@@ -142,6 +142,6 @@
         <!-- Section: Social media -->
       </div>
     </footer>
-    <script src="/archivo.js"></script>
+    <script src="../js/archivo.js"></script>
 </body>
 </html>
