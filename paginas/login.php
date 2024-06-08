@@ -1,23 +1,4 @@
-<<<<<<< Updated upstream:html/login.html
-<!DOCTYPE html>
-
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Pocket monster dex</title>
-
-    <!--Links-->
-    <script src="https://kit.fontawesome.com/6b33bf05cd.js" crossorigin="anonymous"></script>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-
-    <link rel="stylesheet" href="/archivo.js">
-    <link rel="stylesheet" href="/estilo.css">
-</head>
-=======
 <?php include "../include/paginas.inc.php";
->>>>>>> Stashed changes:paginas/login.php
 
 headHTML();
 
@@ -27,13 +8,13 @@ headHTML();
     <header class="p-3 bg-dark text-white">
         <div class="container">
           <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-            <img src="/Imagenes/Logo.png" width="100" height="100" role="img">
+            <img src="../Imagenes/Logo.png" width="100" height="100" role="img">
     
             <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-              <li><a href="/index.html" class="nav-link px-2 text-white">Home</a></li>
-              <li><a href="estrategias.html" class="nav-link px-2 text-white">Estrategias</a></li>
-              <li><a href="mapa.html" class="nav-link px-2 text-white">Mapa</a></li>
-              <li><a href="about.html" class="nav-link px-2 text-white">Sobre Nosotros</a></li>
+              <li><a href="../index.php" class="nav-link px-2 text-white">Home</a></li>
+              <li><a href="estrategias.php" class="nav-link px-2 text-white">Estrategias</a></li>
+              <li><a href="mapa.php" class="nav-link px-2 text-white">Mapa</a></li>
+              <li><a href="about.php" class="nav-link px-2 text-white">Sobre Nosotros</a></li>
             </ul>
     
             <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3">
@@ -60,7 +41,7 @@ headHTML();
                         <div class="card-body p-md-5 mx-md-4">
           
                           <div class="text-center">
-                            <img src="/Imagenes/Logo.png"
+                            <img src="../Imagenes/Logo.png"
                               style="width: 185px;" alt="logo">
                             <h4 class="mt-1 mb-5 pb-1">Pocket Monster Dex</h4>
                           </div>
@@ -174,6 +155,6 @@ headHTML();
           <!-- Section: Social media -->
         </div>
       </footer>
-    <script src="/archivo.js"></script>
+    <script src="../js/archivo.js"></script>
 </body>
 </html>
